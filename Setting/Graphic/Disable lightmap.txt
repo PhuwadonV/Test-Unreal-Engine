@@ -1,0 +1,1 @@
+Check : World Setting -> Lightmass (Advanced) -> Force no precomputed lighting (Checkbox)

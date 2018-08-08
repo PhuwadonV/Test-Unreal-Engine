@@ -1,0 +1,2 @@
+1. Select BSP Actor
+2. Click : Details -> Brush Settings (Advanced) -> Create Static Mesh
