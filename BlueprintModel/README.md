@@ -3,8 +3,8 @@
 	Interface
 	Component
 ## Interface
-	Actor
-	Component
+	For Actor
+	For Component
 ## Component
-	Inside Actor
-	Outside Actor
+	Used inside Actor
+	Used outside Actor
